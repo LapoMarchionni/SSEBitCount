@@ -8,5 +8,5 @@ g++-5 -std=c++11 -march=native -O3 -o sse_bitcount sse_bitcount.cpp
 ```
 Execute with:
 ```
-./sse_bitcount [array_size]
+./sse_bitcount [vector_size]
 ```
