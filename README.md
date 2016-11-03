@@ -1,5 +1,5 @@
-# SSE Set bit count
-Set bit count of a vector of length N filled with random integers using SSE implementation written in C++
+# SSE Set bit count with sideways addition
+Set bit count of a vector of length N filled with random integers using the SSE implementation of the sideway addition written in C++
 
 Requires `g++-5` and `c++11`.
 Compile with:
